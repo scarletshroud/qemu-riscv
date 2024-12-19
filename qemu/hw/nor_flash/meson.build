@@ -1,0 +1,1 @@
+system_ss.add(when: 'CONFIG_NOR_FLASH', if_true: files('nor_flash.c'))

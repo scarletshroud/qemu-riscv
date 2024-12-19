@@ -1,0 +1,1 @@
+system_ss.add(when: 'CONFIG_BUTTER_ROBOT', if_true: files('butter_robot.c'))
